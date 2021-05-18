@@ -8,3 +8,4 @@ function square(number) {
 console.log(square(5));
 greet('Vojtěch', 'Krůpa');
 console.log(document.location);
+greet('Jan', 'Novák');
